@@ -48,6 +48,8 @@ Program 2 :
   <a> Gambar program 2</a>
 </p>
 
+Pada program 2 ini, sama pada program 1 
+
 
 
 
