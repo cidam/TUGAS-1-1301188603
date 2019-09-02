@@ -31,10 +31,15 @@ Pada sisi Client :
 Program 1 :
 
 [![Screen-Shot-2019-08-30-at-12-59-29.png](https://i.postimg.cc/1zhzQdnS/Screen-Shot-2019-08-30-at-12-59-29.png)](https://postimg.cc/qNwrcjxD)
-
 <p align="center">
   <a> Gambar program 1</a>
 </p>
+
+Pada program 1 ini, akan dilakukan sebuah perulangan for. Dimana outputnya nanti berupa hasil dari perulangan berdasarkan kondisi yang telah di tentukn. Contoh pada fungsi perulangan pertama, nilai i = 1. nilai i akan bertambah 1 di steiap perulangannya dan akan berhenti ketika nilai i = 3.
+
+* For, melakukan sebuah perulangan berdasarkan kondisi yang telah ditentukan.
+* Untuk menghentikan program dapat menggunakan fungsi break.
+* Perulangan akan berhenti ketika bernilai false.
 
 
 
