@@ -11,7 +11,23 @@ Pada sisi Server :
 * Server mengirim SYN, ACK
 * Server menerima ACK
 * Server melakukan proses connection estabilished
-* 
+* Server menerima FIN dan mengirim ACK
+* Server akan mengirim FIN lalu menutup koneksi
+
+Pada sisi Client :
+
+* Mulai di starting point
+* Client membuka koneksi, mengirim SYN
+* Client menerima respons SYN, menerima ACK
+* Mengirim ACK, melakukan proses connection estabilished
+* Client mengirim FIN, FIN 1 wait
+* Client menerima ACK, FIN2 wait
+* Client menerima FIN, mengirim ACK
+* Client menunggu
+* Time out, menutup koneksi
+
+
+
 
 
 
