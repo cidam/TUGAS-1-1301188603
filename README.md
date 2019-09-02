@@ -32,6 +32,10 @@ Program 1 :
 
 [![Screen-Shot-2019-08-30-at-12-59-29.png](https://i.postimg.cc/1zhzQdnS/Screen-Shot-2019-08-30-at-12-59-29.png)](https://postimg.cc/qNwrcjxD)
 
+<p align="center">
+  <a> Gambar program 1</a>
+</p>
+
 
 
 
