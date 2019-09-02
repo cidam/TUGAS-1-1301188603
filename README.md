@@ -26,6 +26,12 @@ Pada sisi Client :
 * Client menunggu
 * Time out, menutup koneksi
 
+#### No.2 For If and Else ####
+
+Program 1 :
+
+
+
 
 
 
