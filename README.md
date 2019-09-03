@@ -68,6 +68,8 @@ Pada program 1 ini, akan dibuat sebuah fungsi array untuk menampung sebuah nilai
 
 Program 2 :
 
+[![Screen-Shot-2019-08-30-at-13-32-18.png](https://i.postimg.cc/KYMKBbpw/Screen-Shot-2019-08-30-at-13-32-18.png)](https://postimg.cc/VSzLPx8W)
+
 <p align="center">
   <a> Gambar program 2 : Array and Function</a>
 </p>
