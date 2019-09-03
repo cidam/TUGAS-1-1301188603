@@ -48,7 +48,9 @@ Program 2 :
   <a> Gambar program 2</a>
 </p>
 
-Pada program 2 ini, sama pada program 1 
+Pada program 2 ini, sama halnya pada program 1. Di program ini juga akan menggunakan perulangan, tetapi perulangan yang digunakan berupa if else. If else ini merupakan sebuah perulangan yang dimana jika kondisi pertama tidak memenuhi, maka kondisi else yang akan di gunakan.
+
+* If akan di jalankan ketika bernilai true, if else dijalankan ketika dalam kondisi yang berbeda dan else dijalankan ketika semuanya bernilai false.
 
 
 
