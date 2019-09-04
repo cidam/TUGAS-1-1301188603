@@ -79,7 +79,7 @@ Pada program 2 ini, akan dibuat sebuah program yang akan menghasilkan output ber
 * Function merupakan sebuah blok kode yang melakukan tugas tertentu.
 * Function baru akan berjalan ketika dipanggil.
 
-#### No.3 Struct and Method ####
+#### No.4 Struct and Method ####
 
 [![Screen-Shot-2019-08-30-at-13-54-26.png](https://i.postimg.cc/pLXhFYWH/Screen-Shot-2019-08-30-at-13-54-26.png)](https://postimg.cc/kBzgrSR1)
 
@@ -90,6 +90,14 @@ Pada program 2 ini, akan dibuat sebuah program yang akan menghasilkan output ber
 Pada program 1 ini, akan dibuat sebuah program menggunakan funsi struct. Fungsi struct merupakan suatu struktur data yang menggabungkan beberapa data dengan berbagai tipe data yang memiliki ukuran yang berbeda (terdiri dari 1 atau lebih variable yang bertipe data sama/berbeda) di kelompokan dalam satu deklarasi unik dan saling berkaitan. Program ini akan menghasilkan output berupa nama dan umur.
 
 * Tipe data pada di assign name dan age untuk memberikan nilai ke parameter. Nilai atribut tersebut dipanggil satu persatu dengan urutan tipe data.
+
+[![Screen-Shot-2019-08-30-at-14-00-17.png](https://i.postimg.cc/sXyv3p0q/Screen-Shot-2019-08-30-at-14-00-17.png)](https://postimg.cc/948Wpq2Y)
+
+<p align="center">
+  <a> Gambar program 2 : Struct and Method</a>
+</p>
+
+Pada program 2 ini, sama pada program pertama yaitu sama-sama menggunakan fungsi struct. Tetapi yang membedakan program 1 dan 2 ialah struct pada program ke-2 sudah di inisialisasi terlebih dahulu.
 
 
 
