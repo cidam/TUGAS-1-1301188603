@@ -99,6 +99,34 @@ Pada program 1 ini, akan dibuat sebuah program menggunakan funsi struct. Fungsi 
 
 Pada program 2 ini, sama pada program pertama yaitu sama-sama menggunakan fungsi struct. Tetapi yang membedakan program 1 dan 2 ialah struct pada program ke-2 sudah di inisialisasi terlebih dahulu.
 
+#### No.5 Multiple Return Value and Command Line ####
+
+[![Screen-Shot-2019-08-30-at-14-03-55.png](https://i.postimg.cc/xTrTQGJR/Screen-Shot-2019-08-30-at-14-03-55.png)](https://postimg.cc/nMktYD1j)
+
+<p align="center">
+  <a> Gambar program 1 : Multiple Return Value and Comman Line</a>
+</p>
+
+Pada program 1 ini, akan dibuat sebuah program yang akan menghasilkan output berupa nilai 3,7,7. Nilai lebih dari 1 akan dikembalikan oleh sebuah fungsi menggunakan tuple.
+
+[![Screen-Shot-2019-08-30-at-14-12-34.png](https://i.postimg.cc/rp2StRPC/Screen-Shot-2019-08-30-at-14-12-34.png)](https://postimg.cc/cvTKpCZr)
+
+<p align="center">
+  <a> Gambar program 2 : Multiple Return Value and Comman Line</a>
+</p>
+
+Pada program 2 ini,  akan dihasilkan sebuah  output word: foo, numb:42, fork:false, svar:bar, tail:[]. program ini menggunakan command line (flag) , fungsinya untuk mencetak nilai flag. Flag di deklarasikan dengan cara di assign ke dalam pointer.
+
+#### No.6 Simple Web Apps ####
+
+[![Screen-Shot-2019-08-30-at-14-23-37.png](https://i.postimg.cc/C1sTV8Wv/Screen-Shot-2019-08-30-at-14-23-37.png)](https://postimg.cc/5YykBX9v)
+
+<p align="center">
+  <a> Gambar program  : Simple Web Apps</a>
+</p>
+
+Pada program ini, akan dibuat sebuah program server client. Dimana server menunggu client untuk mengkases program melalui localhost dengan port 8000 dan menampilkan pesan yang di kirimkan.
+
 
 
 
