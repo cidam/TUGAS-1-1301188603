@@ -79,6 +79,18 @@ Pada program 2 ini, akan dibuat sebuah program yang akan menghasilkan output ber
 * Function merupakan sebuah blok kode yang melakukan tugas tertentu.
 * Function baru akan berjalan ketika dipanggil.
 
+#### No.3 Struct and Method ####
+
+[![Screen-Shot-2019-08-30-at-13-54-26.png](https://i.postimg.cc/pLXhFYWH/Screen-Shot-2019-08-30-at-13-54-26.png)](https://postimg.cc/kBzgrSR1)
+
+<p align="center">
+  <a> Gambar program 1 : Struct and Method</a>
+</p>
+
+Pada program 1 ini, akan dibuat sebuah program menggunakan funsi struct. Fungsi struct merupakan suatu struktur data yang menggabungkan beberapa data dengan berbagai tipe data yang memiliki ukuran yang berbeda (terdiri dari 1 atau lebih variable yang bertipe data sama/berbeda) di kelompokan dalam satu deklarasi unik dan saling berkaitan. Program ini akan menghasilkan output berupa nama dan umur.
+
+* Tipe data pada di assign name dan age untuk memberikan nilai ke parameter. Nilai atribut tersebut dipanggil satu persatu dengan urutan tipe data.
+
 
 
 
