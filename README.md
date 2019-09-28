@@ -127,6 +127,15 @@ Pada program 2 ini,  akan dihasilkan sebuah  output word: foo, numb:42, fork:fal
 
 Pada program ini, akan dibuat sebuah program server client. Dimana server menunggu client untuk mengkases program melalui localhost dengan port 8000 dan menampilkan pesan yang di kirimkan.
 
+#### No.7 Config File ####
+
+[![Screen-Shot-2019-09-28-at-18-07-57.png](https://i.postimg.cc/DZs3MdpY/Screen-Shot-2019-09-28-at-18-07-57.png)](https://postimg.cc/R6MY3fBc)
+
+<p align="center">
+  <a> Gambar program  : Config File</a>
+</p>
+
+
 
 
 
