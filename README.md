@@ -135,6 +135,8 @@ Pada program ini, akan dibuat sebuah program server client. Dimana server menung
   <a> Gambar program  : Config File</a>
 </p>
 
+Pertama kita akan membuat file berupa config.json untuk melakukan konfigurasi. Pada file config.json ini terdapat tipe data server dan memiliki atribut berupa port. Fungsi http pada Go digunakan untuk mengambil nomor port dari file config.json dengan menggunakan viper (sintaks viper.GetString(“server.port”)), yang nantinya akan mengembalikan nilai port dari tipe data server didalam file konfig.json.
+
 
 
 
